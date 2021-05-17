@@ -1,0 +1,38 @@
+.font_Gulim {
+    font-family: "Gulim";
+}
+
+.h_700 {
+    height: 1000px;
+    overflow: auto;
+}
+
+ul.nav-list.primary > li a {
+    background-image: none;
+    padding-left: 0;
+    margin-left: 1em;
+}
+
+ul.nav-list.primary > li .icon {
+    float: left;
+    margin-top: 1em;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+.text-porto {
+    color: #0088cc;
+}
+
+.mt_1em {
+    margin-top: 1em;
+}
+.mr_1em {
+    margin-right: 1em;
+}
